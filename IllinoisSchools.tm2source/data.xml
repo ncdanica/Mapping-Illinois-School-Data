@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+
+<Parameters>
+  <Parameter name="center">-86.4404,35.8178,3</Parameter>
+  <Parameter name="format">pbf</Parameter>
+  <Parameter name="json"><![CDATA[{"vector_layers":[{"id":"Illinois_Schools_and_Energy_CSV_-_5","description":"","fields":{"latitude":"Latitude value of that school","longitude":"Longitude value of that school","School":"Name of that school","Address":"Address of that school","County":"School's county in Illinois","Biology":"Rating of energy curricular taught in biology","Chemistry":"Rating of energy curricular taught in chemistry","Physics":"Rating of energy curricular taught in physics","Environmental Science":"Rating of energy curricular taught in environmental science","Engineering":"Rating of energy curricular taught in engineering","Skipped":"Illinois counties with no data"}}]}]]></Parameter>
+  <Parameter name="maxzoom">3</Parameter>
+  <Parameter name="minzoom">0</Parameter>
+  <Parameter name="name"><![CDATA[Plot of Illinois Schools]]></Parameter>
+</Parameters>
+
+
+<Layer name="Illinois_Schools_and_Energy_CSV_-_5"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/dkjayco/Desktop/Mapping/Illinois Schools and Energy CSVs/Illinois Schools and Energy CSV - 5.csv]]></Parameter>
+       <Parameter name="type"><![CDATA[csv]]></Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>
