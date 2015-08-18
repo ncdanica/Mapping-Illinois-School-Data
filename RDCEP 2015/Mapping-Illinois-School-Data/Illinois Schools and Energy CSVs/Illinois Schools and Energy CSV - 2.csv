@@ -1,203 +1,0 @@
-School/ Coordinates,School,Address,County,Biology,Chemistry,Physics ,Environmental Science ,Engineering ,Latitude,Longitude,Accuracy"Central High School 
-2110 IL-94 
-Clayton, IL 62324",Central High School,"2110 IL-94 Clayton, IL 62324",Adams,3,3,3,N/A,N/A,40.06449,-91.02821,9"Payson-Seymour High School 
-420 W Brainard St
-Payson, IL 62360",Payson-Seymour High School,"420 W Brainard St Payson, IL 62360",Adams,3,1,3,1,N/A,39.81684,-91.25004,9"Quincy Notre Dame High School 
- 1400 S 11th St
-Quincy, IL 62301",Quincy Notre Dame High School,"1400 S 11th St Quincy, IL 62301",Adams,3,3,3,3,N/A,39.91447,-91.3992,9"Greenville High School
-1000 Illinois 140
-Greenville, IL 62246",Greenville High School,"1000 Illinois 140 Greenville, IL 62246",Bond,3,3,3,N/A,N/A,38.90117,-89.39892,9"Brown County High School 
-500 East Main
-Mount Sterling, IL  62353",Brown County High School,"500 East Main Mount Sterling, IL  62353",Brown,3,3,3,2,N/A,39.98157,-90.75269,9"West Caroll High School 
-500 Cragmoor Street
-Savanna, IL 61074",West Caroll High School,"500 Cragmoor Street Savanna, IL 61074",Carroll,1,2,0,1,N/A,42.09575,-90.13343,8"A-C Central Junior High School 
- 601 W Buchanan St
-Ashland, IL 62612",A-C Central Junior High School,"601 W Buchanan St Ashland, IL 62612",Cass,1,3,3,3,N/A,39.89222,-90.01272,9"Centennial High School 
-913 Crescent Dr
-Champaign, IL 61821",Centennial High School,"913 Crescent Dr Champaign, IL 61821",Champaign,3,3,3,3,N/A,40.1059,-88.28235,9"Champaign Centennial High School
-913 S. Crescent Dr.
-Champaign, IL 61821",Champaign Centennial High School,"913 S. Crescent Dr. Champaign, IL 61821",Champaign,0,0,3,0,N/A,40.1059,-88.28235,9"Champaign Central High School 
-610 W University Ave
-Champaign, IL 61820",Champaign Central High School,"610 W University Ave Champaign, IL 61820",Champaign,1,1,3,3,N/A,40.11658,-88.25342,9"Flora High School 
-600 S Locust St
-Flora, IL 62839",Flora High School,"600 S Locust St Flora, IL 62839",Clay,3,1,3,N/A,N/A,38.66337,-88.48318,8"Centralia High School 
-2100 E Calumet St 
-Centralia, IL 62801",Centralia High School,"2100 E Calumet St  Centralia, IL 62801",Clinton,3,3,3,3,N/A,38.52015,-89.10354,9"Carlyle High School 
-1461 Twelfth St
-Carlyle, IL 62231",Carlyle High School,"1461 Twelfth St Carlyle, IL 62231",Clinton,3,2,3,3,N/A,38.61942,-89.37387,9"Central Community High School 
-7740 Old U.S. 50
-Breese, IL 62230",Central Community High School,"7740 Old U.S. 50 Breese, IL 62230",Clinton,3,1,3,N/A,3,38.61161,-89.55894,8"Wesclin High School 
-10003 IL-160
-Trenton, IL 62293",Wesclin High School,"10003 IL-160 Trenton, IL 62293",Clinton,2,3,3,1,N/A,38.56911,-89.68681,9"Arcola High School 
-351 West Washington Street
-Arcola, IL 61910",Arcola High School,"351 West Washington Street Arcola, IL 61910",Coles,0,2,3,1,N/A,39.68391,-88.31649,8"Charleston High School 
-1615 Lincoln Ave 
-Charleston, IL 61920",Charleston High School,"1615 Lincoln Ave  Charleston, IL 61920",Coles,3,3,3,3,N/A,39.4853,-88.16451,9"Mattoon High School
-2521 Walnut Ave
-Mattoon, IL 61938",Mattoon High School,"2521 Walnut Ave Mattoon, IL 61938",Coles,1,3,3,1,N/A,39.47365,-88.386,9"Lincoln Park High School 
-2001 North Orchard Street
-Chicago, IL 60614",Lincoln Park High School,"2001 North Orchard Street Chicago, IL 60614",Cook,2,3,3,1,N/A,41.91841,-87.64585,9"Lindblom Math and Science Academy 
-6130 S. Wolcott Avenue 
-Chicago, IL 60636",Lindblom Math and Science Academy,"6130 S. Wolcott Avenue  Chicago, IL 60636",Cook,3,3,3,3,2,41.78219,-87.67192,9"Northside College Preparatory 
-5501 N. Kedzie Ave.
-Chicago, IL 60625",Northside College Preparatory ,"5501 N. Kedzie Ave. Chicago, IL 60625",Cook,1,3,3,3,N/A,41.98124,-87.70767,9"Blue Ridge High School 
-411 N John St
-Farmer City, IL 61842",Blue Ridge High School,"411 N John St Farmer City, IL 61842",DeWitt,1,1,3,1,N/A,40.24696,-88.64613,8"Clinton High School 
-1200 IL-54
-Clinton, IL 61727",Clinton High School,"1200 IL-54 Clinton, IL 61727",DeWitt,1,3,3,3,N/A,40.14591,-88.97858,9"Atwood Hammond High School 
-222 W Magnolia St
-Atwood, IL 61913",Atwood Hammond High School,"222 W Magnolia St Atwood, IL 61913",Douglas,1,3,3,3,N/A,39.80638,-88.46485,5"Villa Grove High School 
-400 N Sycamore St, Villa Grove, IL 61956",Villa Grove High School,"400 N Sycamore St.  Villa Grove, IL 61956",Douglas,2,3,3,N/A,N/A,39.8686,-88.16153,9"Willowbrook High School 
-1250 S. Ardmore Avenue
-Villa Park, IL 60181",Willowbrook High School,"1250 S. Ardmore Avenue Villa Park, IL 60181",DuPage,3,3,3,3,N/A,41.86379,-87.98218,9"Effingham High School
-1301 W Grove
-Effingham, IL 62401",Effingham High School,"1301 W Grove Effingham, IL 62401",Effingham,1,1,1,1,N/A,39.11689,-88.55853,8"Effingham Junior High School
-600 S. Henrietta
-Effingham, IL 62401",Effingham Junior High School,"600 S. Henrietta Effingham, IL 62401",Effingham,1,1,1,1,N/A,39.1175,-88.55471,9"Brownston Jr/Sr. High School 
-421 S College Ave, Brownstown, IL 62418",Brownston Jr/Sr. High School,"421 S College Ave Brownstown, IL 62418",Fayette,2,2,3,N/A,N/A,38.99181,-88.95582,8"Paxton-buckley-loda High School
-700 W Orleans St
-Paxton, IL, 60957",Paxton-buckley-loda High School,"700 W Orleans St Paxton, IL, 60957",Ford,3,3,3,N/A,N/A,40.46079,-88.10738,8"Benton Consolidated High School
-900 N. Cherry St., West Frankfort, IL. 62896",Benton Consolidated High School,"900 N. Cherry St. West Frankfort, IL. 62896",Franklin,1,1,3,N/A,N/A,37.90694,-88.90953,8"Farmington Central High School 
-310 S Lightfooft Rd.
-Farmington, IL 61531",Farmington Central High School,"310 S Lightfooft Rd. Farmington, IL 61531",Fulton,3,3,3,N/A,0,40.69362,-89.98143,9"North Greene High School 
-546 N Main St
-White Hall, IL 62092",North Greene High School,"546 N Main St White Hall, IL 62092",Greene,3,3,3,N/A,N/A,39.44326,-90.4009,9"Dwight Township High School 
-801 S. Franklin St. 
-Dwight, IL 60420",Dwight Township High School,"801 S. Franklin St.  Dwight, IL 60420",Grundy,3,0,3,N/A,N/A,41.08623,-88.42576,8"Mercer County High School 
-307 East Scott Street
-Seneca, IL  61360",Mercer County High School,"307 East Scott Street Seneca, IL  61360",Grundy,3,3,3,N/A,N/A,41.31516,-88.60318,9"Minooka Community High School 
-301 S. Wabena Avenue
-Minooka, IL 60447",Minooka Community High School,"301 S. Wabena Avenue Minooka, IL 60447",Grundy,3,2,3,3,N/A,41.44993,-88.26284,9"Morris Community High School 
-1000 Union St
-Morris, IL 60450 ",Morris Community High School,"1000 Union St Morris, IL 60450 ",Grundy,3,3,3,3,N/A,41.36456,-88.43145,8"Seneca High School 
-307 East Scott Street
-Seneca, IL  61360",Seneca High School,"307 East Scott Street Seneca, IL  61360",Grundy,3,3,3,0,N/A,41.31516,-88.60318,9"Norris City High School 
-Norris City, IL 62869",Norris City High School,"Norris City, IL 62869 ",Hamilton ,N/A,3,3,3,N/A,37.98116,-88.32921,3"Illini West High School 
-600 Miller St.
-Carthage, IL  62321",Illini West High School,"600 Miller St. Carthage, IL  62321",Handcock,3,0,3,0,N/A,40.42135,-91.13294,9"Iroquois West High School 
-529 E. Second 
-Gilman, IL 60938",Iroquois West High School,"529 E. Second  Gilman, IL 60938",Iroquois,0,3,3,0,N/A,40.76941,-87.98522,9"Carbondale Community High School 
-1301 E Walnut St, Carbondale, IL 62901",Carbondale Community High School,"1301 E Walnut St Carbondale, IL 62901",Jackson ,2,3,3,N/A,2,37.72593,-89.18771,9"Centralia High School 
-2100 E Calumet St 
-Centralia, IL 62801",Centralia High School,"2100 E Calumet St  Centralia, IL 62801",Jefferson,3,3,3,3,N/A,38.52015,-89.10354,9"Galena High School 
-1206 N. Franklin
-Galena, IL 61036",Galena High School,"1206 N. Franklin Galena, IL 61036",Jo Daviess,1,2,3,3,N/A,42.4274,-90.44032,9"River Ridge High School 
-4141 Illinois 84
-Hanover, IL 61041",River Ridge High School,"4141 Illinois 84 Hanover, IL 61041",Jo Daviess,1,N/A,3,3,N/A,42.31199,-90.27068,9"Geneva Community High School 
-416 McKinley Avenue  
-Geneva, IL 60134",Geneva Community High School,"416 McKinley Avenue   Geneva, IL 60134",Kane,1,2,3,3,N/A,41.89358,-88.31687,9"Hampshire High School 
-1600 Big Timber Rd. 
-Hampshire, IL 60140",Hampshire High School,"1600 Big Timber Rd.  Hampshire, IL 60140",Kane,2,1,1,1,1,42.12233,-88.49857,9"Metea Valley High School 
-1801 N Eola Rd
-Aurora, IL 60502",Metea Valley High School,"1801 N Eola Rd Aurora, IL 60502",Kane,2,3,3,N/A,3,41.79114,-88.23942,9"Bradley-Bourbonnais High School 
-700 West North Street
-Bradley, IL 60915",Bradley-Bourbonnais High School,"700 West North Street Bradley, IL 60915",Kankakee,3,3,3,0,N/A,41.14956,-87.86882,9"Kankakee High School 
-40 Warren Avenue
-Kankakee, IL 60901 ",Kankakee High School,"40 Warren Avenue Kankakee, IL 60901 ",Kankakee,3,0,3,0,N/A,41.11726,-87.84651,5"Oswego East High School 
-1525 HARVEY ROAD
-Oswego, IL ",Oswego East High School,"1525 HARVEY ROAD Oswego, IL ",Kendall,3,1,3,N/A,N/A,41.69956,-88.28066,9"Abington-Avon High School 
-401 W. Latimer St.
-Abingdon, IL 61410",Abington-Avon High School,"401 W. Latimer St. Abingdon, IL 61410",Knox,3,0,3,3,N/A,40.80529,-90.40294,8"Knoxville High School 
-809 E Main St
-Knoxville, IL 61448",Knoxville High School,"809 E Main St Knoxville, IL 61448",Knox,3,3,3,N/A,N/A,40.90739,-90.27601,9"Marquette Academy 
-1000 Paul Street, 
-Ottawa, IL 61350",Marquette Academy,"1000 Paul Street Ottawa, IL 61350",La Salle,1,3,1,N/A,N/A,41.3505,-88.83915,9"Woodland High School 
- 5800 E 3000 North Rd
-Streator, IL  61364",Woodland High School,"5800 E 3000 North Rd Streator, IL  61364",La Salle,3,3,3,N/A,N/A,41.06165,-88.81756,8"Adlai E. Stevenson H.S
-1 Stevenson Drive 
-Lincolnshire, IL 60069 ",Adlai E. Stevenson H.S,"1 Stevenson Drive Lincolnshire, IL 60069 ",Lake,3,3,3,3,N/A,42.20077,-87.9444,9"South Lake High 
-15600 Silver Eagle Rd 
-Groveland, IL 34736",South Lake High ,"15600 Silver Eagle Rd  Groveland, IL 34736",Lake,3,1,3,1,N/A,28.57415,-81.81713,9"Pontiac Township High School 
-1100 E Indiana Ave
-Pontiac, IL 61764",Pontiac Township High School,"1100 E Indiana Ave Pontiac, IL 61764",Livingston,3,0,3,3,N/A,40.88789,-88.61648,9"Lincoln Community High School 
-1000 Primm Rd
-Lincoln, IL 62656",Lincoln Community High School,"1000 Primm Rd Lincoln, IL 62656",Logan,3,3,3,3,N/A,40.13788,-89.35834,8"Maroa-Forsyth High School
-610 W Washington Street Rd
-Maroa, IL 61756",Maroa-Forsyth High School,"610 W Washington Street Rd Maroa, IL 61756",Macon,3,3,3,1,N/A,40.03707,-88.96804,8"Centralia High School 
-2100 E Calumet St 
-Centralia, IL 62801",Centralia High School,"2100 E Calumet St  Centralia, IL 62801",Marion,3,3,3,3,N/A,38.52015,-89.10354,9"Henry Senachwine High School 
-1023 College Avenue
-Henry, IL 61537",Henry Senachwine High School,"1023 College Avenue Henry, IL 61537",Marshall,1,1,2,1,N/A,41.1169,-89.36825,9"Midland High School 
-1830 IL-17
-Varna, IL 61375",Midland High School,"1830 IL-17 Varna, IL 61375",Marshall,1,1,3,3,N/A,41.02705,-89.27779,8"Midwest Central High School 
-Manito, IL 61546",Midwest Central High School,"Manito, IL 61546 ",Mason,0,0,3,3,N/A,40.42587,-89.77928,3"West Prairie High School 
-18575 E 800th St
-Sciota, IL 61475",West Prairie High School,"18575 E 800th St Sciota, IL 61475",McDonough,0,3,3,0,N/A,40.55283,-90.75051,9"Hall High School 
-800 W. Erie St. 
-Spring Valley, IL ",Hall High School,"800 W. Erie St.  Spring Valley, IL ",McHenry,1,3,3,3,N/A,41.32583,-89.2127,8"Lexington High School 
-202 E. Greenwich
-Lexington, IL 61753",Lexington High School,"202 E. Greenwich Lexington, IL 61753",McLean,3,3,3,N/A,N/A,40.64518,-88.77975,8"Olympia High School 
-7832 N 100 East Rd
-Stanford, IL 61774 - 9494",Olympia High School,"7832 N 100 East Rd Stanford, IL 61774 - 9494",McLean,3,3,3,1,N/A,40.39572,-89.24586,8"University High School 
-500 W Gregory Street
-Normal, IL 61790",University High School,"500 W Gregory Street Normal, IL 61790",McLean,1,3,3,3,3,40.51551,-88.99613,9"Athens Junior High School 
-1 Warrior Way
-Athens, IL 62613",Athens Junior High School,"1 Warrior Way Athens, IL 62613",Menard,3,1,3,3,N/A,39.96175,-89.71736,9"Porta Junior High School 
-17651 Bluejay Rd
-Petersburg, IL 62675",Porta Junior High School,"17651 Bluejay Rd Petersburg, IL 62675",Menard,3,3,3,0,N/A,40.01313,-89.86176,9"Tiopia Junior-Senior High School 
-2204 Concord Arenzville Rd
-Concord, IL 62631",Tiopia Junior-Senior High School,"2204 Concord Arenzville Rd Concord, IL 62631",Morgan,1,3,3,1,N/A,39.84001,-90.37329,8"Rochelle Township High School 
-1401 Flagg Road
-Rochelle, IL 61068",Rochelle Township High School,"1401 Flagg Road Rochelle, IL 61068",Ogle,1,3,3,3,1,41.94206,-89.07726,9"Dunlap High School 
-5220 West Legion Hall Road. 
-Dunalp, IL, 61525",Dunlap High School,"5220 West Legion Hall Road.  Dunalp, IL, 61525",Peoria,3,3,3,0,N/A,40.85421,-89.67585,9"Illinois Valley Central High School 
-1300 W. Sycamore Street
-Chillicothe, IL 61523",Illinois Valley Central High School,"1300 W. Sycamore Street Chillicothe, IL 61523",Peoria,3,0,3,3,N/A,40.91281,-89.50309,9"Peoria High School 
-1615 N. North Street
-Peoria, IL 61604",Peoria High School,"1615 N. North Street Peoria, IL 61604",Peoria,3,3,3,3,3,40.7073,-89.59937,9"Bement High School 
- 201 S Champaign St
-Bement, IL 61813",Bement High School,"201 S Champaign St Bement, IL 61813",Piatt,3,3,3,3,N/A,39.92188,-88.56924,9"Monticello High School 
-1 Sage Dr
-Monticello, IL 61856",Monticello High School,"1 Sage Dr Monticello, IL 61856",Piatt,3,3,3,3,N/A,40.01918,-88.57237,9"Williamsville High School 
-900 Walnut Rd
-Williamsville, IL 62693",Williamsville High School,"900 Walnut Rd Williamsville, IL 62693",Sangamon,3,3,3,3,N/A,39.95077,-89.54982,5"Rushville-Industry High School 
-730 N Congress St
-Rushville, IL 62681",Rushville-Industry High School,"730 N Congress St Rushville, IL 62681",Schuyler,3,3,3,1,N/A,40.12789,-90.5646,9"Lebanon High School 
-Lebanon, IL 62254",Lebanon High School,"Lebanon, IL 62254 ",St. Clair,3,3,3,N/A,N/A,38.60394,-89.80732,3"Mascoutah High School Mascoutah CUSD #19
-1313 W Main St
-Mascoutah, IL ",Mascoutah High School Mascoutah CUSD #19,"1313 W Main St Mascoutah, IL ",St. Clair,3,3,3,2,N/A,38.49582,-89.81931,9"Stark County High School 
-300 W. Van Buren
-Wyoming, IL 61491  ",Stark County High School,"300 W. Van Buren Wyoming, IL 61491  ",Stark,1,1,3,1,N/A,41.06512,-89.77566,8"East Peoria Community High School 
-1401 E. Washington St
-East Peoria IL 61611",East Peoria Community High School,1401 E. Washington St East Peoria IL 61611,Tazewell,3,3,3,3,N/A,40.67068,-89.55787,9"Morton High School  
-350 N Illinois Ave
- Morton, IL 61550",Morton High School ,"350 N Illinois Ave Morton, IL 61550",Tazewell,1,3,3,3,1,40.61143,-89.45306,9"Tremont High School 
-400 W Pearl St
-Tremont, IL 61568",Tremont High School,"400 W Pearl St Tremont, IL 61568",Tazewell,1,3,3,3,N/A,40.52838,-89.49702,8"Armstrong High School 
-Armstrong, IL 61812",Armstrong High School,"Armstrong, IL 61812 ",Vermilion,1,1,3,1,N/A,40.30643,-87.87781,3"Bismarck-Henning High School 
-17268 E 2750 North Rd
-Bismarck, IL 61814",Bismarck-Henning High School,"17268 E 2750 North Rd Bismarck, IL 61814",Vermilion,1,3,3,3,N/A,40.2637,-87.62006,8"Hoopeston Area High School 
- 615 E Orange St
-Hoopeston, IL 60942",Hoopeston Area High School,"615 E Orange St Hoopeston, IL 60942",Vermilion,2,3,3,N/A,1,40.45854,-87.66257,9"Westville High School 
-918 N State St
-Westville, IL 61883",Westville High School,"918 N State St Westville, IL 61883",Vermilion,3,1,3,3,N/A,40.05141,-87.63884,8"Mt. Carmel High School
-201 Pear Street 
-Mt. Carmel, IL 62863",Mt. Carmel High School,"201 Pear Street  Mt. Carmel, IL 62863",Wabash,0,0,1,0,N/A,38.40878,-87.75476,8"Monmouth High School 
-105 North E Street
-Monmouth, IL 61462",Monmouth High School,"105 North E Street Monmouth, IL 61462",Warren,2,3,3,N/A,N/A,40.9122,-90.65457,8"Centralia High School 
-2100 E Calumet St 
-Centralia, IL 62801",Centralia High School,"2100 E Calumet St  Centralia, IL 62801",Washington,3,3,3,3,N/A,38.52015,-89.10354,9"Okawville Jr/Sr High School
-400 S Hanover St
-Okawville, IL 62271",Okawville Jr/Sr High School,"400 S Hanover St Okawville, IL 62271",Washington,0,1,2,0,N/A,38.42677,-89.54771,9"Fairfield Community High School 
-300 W. King Street
-Fairfield, Illinois 62837",Fairfield Community High School,"300 W. King Street Fairfield, Illinois 62837",Wayne,3,3,3,N/A,N/A,38.3752,-88.36346,8"Fullerton High School 
-1207 12th Ave.
- Fulton, IL 61252",Fullerton High School,"1207 12th Ave. Fulton, IL 61252",Whiteside,0,0,3,0,N/A,41.86547,-90.15425,8"Rock Falls High School 
-101 12th Avenue 
-Rock Falls, IL ",Rock Falls High School,"101 12th Avenue  Rock Falls, IL ",Whiteside,3,2,2,2,N/A,41.77945,-89.70526,9"Herrin High School
-700 N. 10th St.
-Herrin, IL 62948",Herrin High School,"700 N. 10th St. Herrin, IL 62948",Williamson,2,2,1,N/A,N/A,37.80981,-89.02204,9"Johnston City High School
-1500 Jefferson Ave
-Johnston City, IL 62951",Johnston City High School,"1500 Jefferson Ave Johnston City, IL 62951",Williamson,3,3,2,2,,37.8265,-88.92482,9"Jefferson High School 
-4145 Samuelson Road
-Rockford, IL 61109",Jefferson High School,"4145 Samuelson Road Rockford, IL 61109",Winnebago,2,2,1,N/A,N/A,42.20718,-89.03785,9"Rockford East High School 
-2929 Charles Street
-Rockford, IL 61108",Rockford East High School,"2929 Charles Street Rockford, IL 61108",Winnebago,3,1,2,2,N/A,42.2569,-89.04993,9"Reed- Custer High School 
-249 Comet Drive
-Braidwood, IL ",Reed- Custer High School,"249 Comet Drive Braidwood, IL ",Wood,3,3,1,N/A,N/A,41.25816,-88.20765,8"Summit Hill High School 
-20100 S. Spruce Drive
-Frankfort, IL 60423",Summit Hill High School,"20100 S. Spruce Drive Frankfort, IL 60423",Wood,0,3,3,0,N/A,41.52681,-87.82068,9"Fieldcrest High School 
-1 Dornbush Drive
-Minonk, IL 61760",Fieldcrest High School,"1 Dornbush Drive Minonk, IL 61760",Woodford,3,3,3,0,N/A,40.90196,-89.02833,9"Metamora Township High School 
-101 W Madison St
-Metamora, IL, 61548",Metamora Township High School,"101 W Madison St Metamora, IL, 61548",Woodford,3,3,3,N/A,N/A,40.79512,-89.36367,9

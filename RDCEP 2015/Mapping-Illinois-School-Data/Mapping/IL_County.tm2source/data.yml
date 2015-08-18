@@ -1,0 +1,27 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: dkjayco1.2653b74c
+  rev: s-d2d6ab47
+  saveCenter: true
+attribution: ''
+center: 
+  - -89.5044
+  - 39.7392
+  - 6
+description: ''
+Layer: 
+  - id: IL_BNDY_County_Py
+    Datasource: 
+      file: /Users/dkjayco/Downloads/Git/Projects-Repo/RDCEP 2015/Mapping-Illinois-School-Data/IL_BNDY_County/IL_BNDY_County_Py.shp
+      type: shape
+    description: ''
+    fields: 
+      CO_FIPS: Number
+      COUNTY_NAM: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=GRS80 +no_defs
+maxzoom: 12
+minzoom: 0
+name: IL_County

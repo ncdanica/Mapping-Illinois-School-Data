@@ -1,0 +1,67 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "Imported at Tue Jul 14 13:39:42 PDT 2015 from Illinois Schools and Energy CSV.",
+  "exportable": true,
+  "dc:title": "Illinois Schools and Energy CSV",
+  "attribution": "RDCEPSummer",
+  "dc:modified": "2015-07-14T21:02:17Z",
+  "dc:identifier": "122ZO5U9XN74GZ9gR6r2IrD9aokS6BQrbSKmN7l75",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "location",
+      "name": "col0",
+      "validateData": false,
+      "title": "School/ Coordinates"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "County"
+    },
+    {
+      "datatype": "double",
+      "name": "col2",
+      "validateData": false,
+      "title": "Biology"
+    },
+    {
+      "datatype": "double",
+      "name": "col3",
+      "validateData": false,
+      "title": "Chemistry"
+    },
+    {
+      "datatype": "double",
+      "name": "col4",
+      "validateData": false,
+      "title": "Physics"
+    },
+    {
+      "datatype": "string",
+      "name": "col5",
+      "validateData": false,
+      "title": "Environmental Science"
+    },
+    {
+      "datatype": "string",
+      "name": "col6",
+      "validateData": false,
+      "title": "Engineering"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": false,
+      "name": "col7",
+      "validateData": false,
+      "title": "Test"
+    },
+    {
+      "datatype": "location",
+      "formatPattern": "Highlight untyped cells",
+      "name": "col8",
+      "validateData": false,
+      "title": "New column"
+    }
+  ]}
+}

@@ -1,0 +1,34 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: dkjayco1.83641b0f
+  rev: s-6d47543f
+  saveCenter: true
+attribution: ''
+center: 
+  - -88.8574
+  - 39.8423
+  - 6
+description: ''
+Layer: 
+  - id: cb_2014_us_county_500k
+    Datasource: 
+      file: /Users/dkjayco/Downloads/Git/Projects-Repo/RDCEP 2015/Mapping-Illinois-School-Data/cb_2014_us_county_500k/cb_2014_us_county_500k.shp
+      type: shape
+    description: ''
+    fields: 
+      AFFGEOID: String
+      ALAND: Number
+      AWATER: Number
+      COUNTYFP: String
+      COUNTYNS: String
+      GEOID: String
+      LSAD: String
+      NAME: String
+      STATEFP: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=GRS80 +no_defs
+maxzoom: 9
+minzoom: 0
+name: cb_2014_us_county_500k

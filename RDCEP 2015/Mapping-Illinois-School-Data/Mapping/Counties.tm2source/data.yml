@@ -1,0 +1,26 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: dkjayco1.277ac690
+  rev: s-054e0cf8
+  saveCenter: true
+attribution: ''
+center: 
+  - -89.231
+  - 40.0276
+  - 6
+description: ''
+Layer: 
+  - id: IL_BNDY_County_Ln
+    Datasource: 
+      file: /Users/dkjayco/Downloads/Stuff/IL_BNDY_County/IL_BNDY_County_Ln.shp
+      type: shape
+    description: ''
+    fields: 
+      STATELINE: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=GRS80 +no_defs
+maxzoom: 11
+minzoom: 0
+name: Counties

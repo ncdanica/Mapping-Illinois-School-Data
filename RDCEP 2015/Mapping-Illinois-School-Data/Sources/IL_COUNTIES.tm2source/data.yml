@@ -1,0 +1,27 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: dkjayco1.11bdd642
+  rev: s-0cdefc78
+  saveCenter: true
+attribution: ''
+center: 
+  - -89.0332
+  - 39.9603
+  - 6
+description: Shape file of Illinois with county polygons
+Layer: 
+  - id: IL_COUNTIES
+    Datasource: 
+      file: /Users/dkjayco/Downloads/Git/Projects-Repo/RDCEP 2015/Mapping-Illinois-School-Data/Resources/IL_BNDY_County/IL_BNDY_County_Py.shp
+      type: shape
+    description: ''
+    fields: 
+      CO_FIPS: Number
+      COUNTY_NAM: "Name of the County; call \"INALLCAPS\""
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=GRS80 +no_defs
+maxzoom: 12
+minzoom: 0
+name: IL_COUNTIES

@@ -1,0 +1,37 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: dkjayco1.62e5bbef
+  rev: s-e3df93d2
+  saveCenter: true
+attribution: ''
+center: 
+  - -88.4619
+  - 40.0613
+  - 6
+description: ''
+Layer: 
+  - id: IL-Schools-Data
+    Datasource: 
+      file: /Users/dkjayco/Downloads/Git/Projects-Repo/RDCEP 2015/Mapping-Illinois-School-Data/Illinois Schools and Energy CSVs/IL-Schools-Data.csv
+      type: csv
+    description: ''
+    fields: 
+      Accuracy: Number
+      Address: String
+      Biology: Number
+      Chemistry: Number
+      County: String
+      Engineering: String
+      Environmental Science: Number
+      Latitude: Number
+      Longitude: Number
+      Physics: Number
+      School: String
+      School/ Coordinates: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 9
+minzoom: 0
+name: Schools1-Tile
