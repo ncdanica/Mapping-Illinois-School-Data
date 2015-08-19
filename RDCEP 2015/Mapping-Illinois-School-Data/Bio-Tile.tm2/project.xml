@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+
+<Parameters>
+  <Parameter name="attribution"><![CDATA[<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>]]></Parameter>
+  <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
+  <Parameter name="center">-89.3628,40.1957,6</Parameter>
+  <Parameter name="format">png8:m=h</Parameter>
+  <Parameter name="maxzoom">22</Parameter>
+  <Parameter name="minzoom">0</Parameter>
+  <Parameter name="name"><![CDATA[Biology TIle]]></Parameter>
+  <Parameter name="source"><![CDATA[mapbox:///dkjayco1.13b3643d]]></Parameter>
+</Parameters>
+
+
+<Style name="IL-Schools-Data" filter-mode="first">
+  <Rule>
+    <Filter>([Biology] = 'N/A')</Filter>
+    <MarkersSymbolizer fill="#000000" />
+  </Rule>
+  <Rule>
+    <Filter>([Biology] = 3)</Filter>
+    <MarkersSymbolizer fill="#0000ff" />
+  </Rule>
+  <Rule>
+    <Filter>([Biology] = 2)</Filter>
+    <MarkersSymbolizer fill="#5d5dfd" />
+  </Rule>
+  <Rule>
+    <Filter>([Biology] = 1)</Filter>
+    <MarkersSymbolizer fill="#a2a2f4" />
+  </Rule>
+  <Rule>
+    <Filter>([Biology] = 0)</Filter>
+    <MarkersSymbolizer fill="#fcfcff" />
+  </Rule>
+</Style>
+<Layer name="IL-Schools-Data"
+  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+    <StyleName>IL-Schools-Data</StyleName>  </Layer>
+
+</Map>
