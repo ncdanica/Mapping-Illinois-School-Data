@@ -5,11 +5,22 @@
 \deftab720
 \pard\pardeftab720\ri720
 
-\f0\fs24 \cf0 /*\
+\f0\fs24 \cf0 /*In map box studio, I was creating a Choropleth map where every county that we had data on was shaded, and everything else was blank. in the program, I just highlighted Illinois as a whole in dark blue and then made the areas we didn't have data on a light shade of blue-grey.*/\
+\
+//original array with Illinois county names\
+/*\
 var County = ['Alexander', 'Boone', 'Bureau', 'Calhoun', 'Carroll', 'Christian', 'Clark', 'Crawford', 'Cumberland', 'DeKalb', 'Edgar', 'Edwards', 'Gallatin', 'Hardin', 'Henderson', 'Henry\'92, \'91Jasper\'92, \'91Jersey', 'Johnson', 'Lawrence', 'Lee', 'McDonough', 'McHenry', 'McLean', 'Macoupin', 'Madison', 'Massac', 'Mercer', 'Monroe', 'Montgomery', 'Moultrie', 'Perry', 'Pike', 'Pope', 'Pulaski', 'Putnam', 'Randolph', 'Richland', 'Rock Island', 'Saline', 'Scott', 'Shelby', 'Stephenson', 'Union', 'White', 'Will'];\
 */\
 \
+//the shape file with the Illinois county map specifically needed all caps words\
 var County =  ['ALEXANDER', 'BOONE', 'BUREAU', 'CALHOUN', 'CARROLL', 'CHRISTIAN', 'CLARK', 'CRAWFORD', 'CUMBERLAND', 'DEKALB', 'EDGAR', 'EDWARDS', 'GALLATIN', 'HARDIN', 'HENDERSON', 'HENRY\'92, \'91JASPER\'92, \'91JERSEY', 'JOHNSON', 'LAWRENCE', 'LEE', 'MCDONOUGH', 'MCHENRY', 'MCLEAN', 'MACOUPIN', 'MADISON', 'MASSAC', 'MERCER', 'MONROE', 'MONTGOMERY', 'MOULTRIE', 'PERRY', 'PIKE', 'POPE', 'PULASKI', 'PUTNAM', 'RANDOLPH', 'RICHLAND', 'ROCK ISLAND', 'SALINE', 'SCOTT', 'SHELBY', 'STEPHENSON', 'UNION', 'WHITE', 'WILL'];\
+\
+//this was just a for loop function that wrote out a variation of:\
+//#IL_BNDY_County_Py [COUNTY_NAM = "(County Name)"] \{\
+//polygon-fill: @NA;\
+//polygon-opacity: @Na;\}\
+/*this makes the counties where we did not have data a light grey. i realized i could have written all the counties that we visited and then just shade them darker and be done with it, but that was way more counties than this and I didn't want to go through that. If you know a way to do it easily, props to you*/\
+\
 \
 for(var i = 0; i < County.length; i++) \{\
   document.write("#IL_BNDY_County_Py [COUNTY_NAM = '" + County[i] + "'] \{");\

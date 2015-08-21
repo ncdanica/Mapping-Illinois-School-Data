@@ -21,7 +21,7 @@ layers: null
 maxzoom: 22
 minzoom: 0
 name: Choropleth
-source: "mapbox:///mapbox.mapbox-streets-v5,dkjayco1.2653b74c,dkjayco1.13b3643d"
+source: "mapbox:///mapbox.mapbox-streets-v5,dkjayco1.2653b74c"
 styles: 
   - style.mss
   - Counties.mss
